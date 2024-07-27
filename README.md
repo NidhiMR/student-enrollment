@@ -1,4 +1,4 @@
-# student-enrollment
+
 # Student Enrollment System
 
 ## Project Overview
