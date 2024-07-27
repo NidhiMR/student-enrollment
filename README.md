@@ -15,6 +15,6 @@ To set up and run this project locally, follow these steps:
    git clone git@github.com:NidhiMR/student-enrollment.git
 2. **Usage**
 
-    ---bash
+    ```bash
     Register a Student: Navigate to the registration page to add new students.
     Generate Reports: Use the provided functionalities to generate student reports in CSV or PDF format.
